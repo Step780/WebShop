@@ -1,0 +1,25 @@
+﻿@page
+@model WebShop.Pages.ProfileRegistrationModel
+@{
+
+
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FOOLISH</title>
+    <link rel="stylesheet" href="~/css/Profile.css" />
+</head>
+<body>
+    <h3>Регистрация</h3>
+    <form method="post">
+        <input asp-for="@Model.Client.Name" placeholder="Имя" style="width: 300px; height: 30px; display: flex; margin-top: 15px;" />
+        <input asp-for="@Model.Client.Surname" placeholder="Фамилия" style="width: 300px; height: 30px; display: flex; margin-top: 15px;" />
+        <input asp-for="@Model.Client.Phone" placeholder="Телефон" style="width: 300px; height: 30px; display: flex; margin-top: 15px;" />
+        <input asp-for="@Model.Client.Email" placeholder="E-mail" style="width: 300px; height: 30px; display: flex; margin-top: 15px;" />
+        <input asp-for="@Model.Client.Password" placeholder="Пароль" style="width:300px; height:30px; display:flex; margin-top:15px;" type="password" />
+        <button type="submit" style="margin-top:15px; width:200px; height:50px;"><span>Зарегистрироваться</span></button>
+
+    </form>
+
+</body>

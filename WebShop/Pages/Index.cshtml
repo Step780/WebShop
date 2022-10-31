@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+    List<string> ts = new List<string>
+    {
+        "Get fuel",
+        "Check oil",
+        "Check Tyre pressure"
+    };
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1>Tasks to complete</h1>
+    <ul>
+        <li>0 - Buy mFk</li>
+        <li>1 - Buy eggs</li>s
+        <li>2 - Buy bread</li>
+    </ul>
+
+    <strong>The following tasks remain:</strong>
+    <ul>
+        @foreach (var task in ts)
+            {
+                <li>@task</li>
+            }
+    </ul>
+</div>

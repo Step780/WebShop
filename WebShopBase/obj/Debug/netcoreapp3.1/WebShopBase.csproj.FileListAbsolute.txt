@@ -1,0 +1,10 @@
+F:\Visual Studio Source\WebShop\WebShopBase\bin\Debug\netcoreapp3.1\WebShopBase.deps.json
+F:\Visual Studio Source\WebShop\WebShopBase\bin\Debug\netcoreapp3.1\WebShopBase.dll
+F:\Visual Studio Source\WebShop\WebShopBase\bin\Debug\netcoreapp3.1\WebShopBase.pdb
+F:\Visual Studio Source\WebShop\WebShopBase\obj\Debug\netcoreapp3.1\WebShopBase.csproj.AssemblyReference.cache
+F:\Visual Studio Source\WebShop\WebShopBase\obj\Debug\netcoreapp3.1\WebShopBase.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Source\WebShop\WebShopBase\obj\Debug\netcoreapp3.1\WebShopBase.AssemblyInfoInputs.cache
+F:\Visual Studio Source\WebShop\WebShopBase\obj\Debug\netcoreapp3.1\WebShopBase.AssemblyInfo.cs
+F:\Visual Studio Source\WebShop\WebShopBase\obj\Debug\netcoreapp3.1\WebShopBase.csproj.CoreCompileInputs.cache
+F:\Visual Studio Source\WebShop\WebShopBase\obj\Debug\netcoreapp3.1\WebShopBase.dll
+F:\Visual Studio Source\WebShop\WebShopBase\obj\Debug\netcoreapp3.1\WebShopBase.pdb
